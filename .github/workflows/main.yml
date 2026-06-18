@@ -32,6 +32,9 @@ jobs:
           - hotdog
           - guacamole
           - guacamoleb
+          # sdm660
+          - r11
+          - r11s
           # sdm845
           - fajita
           - beryllium-ebbg
